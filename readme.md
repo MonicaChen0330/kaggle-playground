@@ -16,17 +16,6 @@
 | 🤖 模型訓練     | 能根據資料結構與任務特性，選擇合適的模型       |
 | 🧪 評估與驗證     | 理解並正確運用評估指標，進行模型表現分析與優化 |
 
-## 📁 檔案架構
-```
-<題目名稱>/
-├── train.csv
-├── test.csv
-├── sample_submission.csv
-├── prediction.ipynb        # 資料清理 + 建模流程
-├── submission_xxx.csv      # 上傳用的預測檔案
-└── README.md               # 題目說明與分析摘要
-```
-
 <!-- ## 🚀 未來規劃
 
 * 每月至少完成一個 Playground 題目

@@ -1,0 +1,7 @@
+*.csv
+*.tsv
+*.zip
+*.xlsx
+data/
+datasets/
+**/catboost_info/
